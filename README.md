@@ -1,5 +1,7 @@
 # vuextuto
 
+<h2> This reposotory show how to use vuex on a simple vue.js aplication </h2>
+
 > A Vue.js project
 
 ## Build Setup
